@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 tests/phpunit.xml
 tests/temp/*.php
 vendor/*
 tags
+=======
+nbproject/
+Tests/temp/*
+>>>>>>> upstream/master
